@@ -6,3 +6,6 @@
         <br> Stylo após muito esforço, conseguiu transformar seu nome em uma marca registrada e agora é conhecido por Stylo&reg; e agora ele está em busca de conseguir o &copy; e o &trade; para executar seu plano de processar a microsoft &#9728; 😀
 <img align="center" alt="IMAGENS DE GUERRA" src="https://cdn.discordapp.com/attachments/940798829987516506/941404201915908116/unknown.png"/>
 IMAGENS TIRADAS DURANTE A GUERRA
+
+<br> durante a guerra, foi produzido um poderoos vídeo capaz de acabar com tudo e todos.
+<video align="center" alt="carros poderosos" src="https://cdn.discordapp.com/attachments/818311885367410698/941405208016203846/carros2_-_Copia.webm" controls> </video>
