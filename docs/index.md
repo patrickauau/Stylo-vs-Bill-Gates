@@ -14,7 +14,5 @@
     <br>(IMAGENS TIRADAS DURANTE A GUERRA)
     <br>
     <br> Durante a guerra, foi produzido um poderoso vídeo capaz de acabar com tudo e todos.
-    <video align="left" alt="carros brabos" height="265" width="600" src="https://cdn.discordapp.com/attachments/940798829987516506/941415129571012698/carros2_-_Copia.webm" controls></video>
+    <video align="left" alt="carros brabos" src="https://cdn.discordapp.com/attachments/940798829987516506/941415129571012698/carros2_-_Copia.webm" controls></video>
 
-</body>
-</html>
